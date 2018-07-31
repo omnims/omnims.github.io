@@ -1,0 +1,12 @@
+<br />
+Welcome, Explorer!<br />
+<br />
+You have landed on a brand new MapleStory v62 blog.<br />
+There isn't much available at the moment, but that will change as new content is committed.<br />
+<br />
+This website is powered by a <a href="https://github.com/omnims/omnims.github.io" target="_blank">GitHub repository</a>! It is not a personal blog. Any contributions would be greatly appreciated, so long as they fit the theme (MapleStory v62). In the near future, an article will be published to explain contribution guidelines in detail. For now, just be sure to identify yourself as the author when publishing.<br />
+<br />
+<br />
+Stay tuned!<br />
+- Omni<br />
+<br />
