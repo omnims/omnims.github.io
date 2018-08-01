@@ -1,0 +1,69 @@
+TITLE: [Content Patch] Ver. 0.62
+AUTHOR: Omni
+DATE: Tue Jul 31 21:16:33 EDT 2018
+DESC: The official MapleStory v62 content patch post. It was taken from a (20090324) snapshot.
+FORMAT: 
+-----
+BODY:
+[Content Patch] Ver. 0.62<br />
+view : 175 props : 0 11/11/08<br />
+Edit: The patch will be extended for 2 hours and 20 minutes and will now conclude at approx. 8:20 am PST and 4:20 pm GMT. We are sorry for the inconvenience.  Thank you for your patience. <br />
+<br />
+=======================================================================================<br />
+<br />
+MapleStory will be going through a scheduled Patch on Tuesday, November 11th, 2008. <br />
+<br />
+<br />
+ <br />
+<br />
+This one involves the game servers, and it'll last for approximately 8 hours.<br />
+<br />
+ <br />
+<br />
+<MapleStory Patch><br />
+<br />
+ <br />
+<br />
+- Server : All Game Servers<br />
+<br />
+ <br />
+<br />
+- Time : Tuesday, November 11th, 10:00 pm ~ 6:00 am PST<br />
+<br />
+       (Wednesday, November 12th, 6:00 am ~ 2:00 pm GMT)<br />
+<br />
+ <br />
+<br />
+ <br />
+<br />
+<br />
+The website will be available during the Patch. Click here to read what's coming this patch! <br />
+<br />
+Click below to be directed to the web posts:<br />
+<br />
+Pirate Events<br />
+<br />
+Game Update<br />
+<br />
+November Gachapon Update<br />
+<br />
+Reopen of Event Mini Dungeon<br />
+<br />
+Gachapon Level Limit Changes<br />
+<br />
+ <br />
+<br />
+ <br />
+<br />
+ <br />
+<br />
+Thank you, and Happy Mapling<br />
+<br />
+-----------------------------------------------------------------<br />
+<br />
+What is a Content Patch?<br />
+<br />
+ <br />
+<br />
+New content has to mesh well with our version, and since we have unique content, there?s always a possibility that it could affect another area of the game, so we have to test it. After we complete testing and everything is working, the game will be open to everyone.
+END-----
