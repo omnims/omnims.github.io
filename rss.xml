@@ -8,7 +8,31 @@
 <description>Community Resource Archive</description>
 <dc:language>en-us</dc:language>
 <dc:creator>Omni</dc:creator>
-<dc:date>2018-07-31T21:37:00-04:00</dc:date>
+<dc:date>2018-08-03T23:37:14-04:00</dc:date>
 <admin:generatorAgent rdf:resource="http://nanoblogger.sourceforge.net" />
+<item>
+<link>https://omnims.github.io/rss/archives/2018/08/03/maplestory_sea_pirates_release_-_gameaxis_scans/index.html</link>
+<guid isPermaLink="true">https://omnims.github.io/rss/archives/2018/08/03/maplestory_sea_pirates_release_-_gameaxis_scans/index.html</guid>
+<title>MapleStory SEA Pirates Release - GameAxis Scans</title>
+<dc:date>2018-08-03T23:01:35-04:00</dc:date>
+<dc:creator>Omni</dc:creator>
+<dc:subject>promotional, pirate_class, maplestory_sea</dc:subject>
+<description>
+<![CDATA[
+It was the second half of 2008. MapleStory players around the globe were awaiting the release of the Pirate class. Global MapleStory wasn't the only region standing by in anticipation. MapleStory SEA was also preparing for the exciting release of a brand-new Explorer branch. Since the initial release of MapleStory, there was always a -<i>somewhat</i>- balanced set of four class branches; Bowman, Magician, Thief, and Warrior. Everyone was talking about the mysterious fifth branch and how it could fit into the already broad spectrum of classes.<br />
+<br />
+One such conversation in the <a href="https://www.hidden-street.net/forum/threads/33545-Pirates-SOON?s=02f2730e32aabd5235185d9540310cf2&p=578104#post578104" target="_blank">Hidden Street Forum</a>, later recaptured by an Ayumilove <a href="https://ayumilovemaple.wordpress.com/2008/10/13/maplestory-gms-msea-clearer-version-of-pirate-job-information-on-the-magazine/" target="_blank">blog post</a>, displayed promotional scans from a <a href="http://gameaxis.com/" target="_blank">GameAxis</a> magazine.<br />
+<br />
+<a href="../../images/gameaxis/gaxispscans_0001.jpg" target="_blank"><img src="../../images/gameaxis/gaxispscans_0001.jpg" alt="GameAxis Unwired - Oct 2008 Page 50" style="max-height: 100px; max-width: 100px;" /></a> <a href="../../images/gameaxis/gaxispscans_0002.jpg" target="_blank"><img src="../../images/gameaxis/gaxispscans_0002.jpg" alt="GameAxis Unwired - Oct 2008 Page 51" style="max-height: 100px; max-width: 100px;" /></a><br />
+<br />
+These pages can be found in the October 2008 edition of GameAxis Unwired, pages 50 and 51 respectively.<br />
+<br />
+Even though the information displayed might not help with your MapleStory v62 server, and wasn't intended for gMS for that matter, I find it interesting to view these relics of the past. I hope these scans spark inspiration for your private server project, or at least provide a warming sense of nostalgia.<br />
+<br />
+Credits:<br />
+* <a href="https://www.hidden-street.net/forum/members/120425-RavenBlade" target="_blank">RavenBlade</a> - made the initial scans and posted them for the world to see.<br />
+* <a href="http://ayumilove.net/" target="_blank">AyumiLove</a> - spread the scans to a broader audience, allowing them to reach people such as myself.<br />]]>
+</description>
+</item>
 </channel>
 </rss>
